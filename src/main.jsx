@@ -11,6 +11,10 @@ createRoot(document.getElementById('root')).render(
     {/* <App /> */}
     {/* <Register/> */}
     {/* <OTPPage/> */}
+<<<<<<< HEAD
     <App />
+=======
+    <SlotBooking/>
+>>>>>>> 5f6f8582abdd467d3c5109c90c1a309560f4d305
   </StrictMode>,
 )
